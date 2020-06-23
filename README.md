@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 	MIT License
 
-	Copyright (c) 2017 Skcript
+	Copyright (c) 2020 Skcript
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## About
 
-![Skcript](http://www.skcript.com/static/skcript_norm.png)
+<img src="https://www.skcript.com/images/brand/2020/skcript_black.png" alt="Simple Icons" width=125 height=19>
 
 This Project is maintained by Skcript. The names and logos for
 Skcript are properties of Skcript.
